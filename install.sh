@@ -13,3 +13,4 @@ apm install minimap
 apm install atom-expose
 apm install highlight-selected
 apm install go-plus
+apm install atom-beautify
