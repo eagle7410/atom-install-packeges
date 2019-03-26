@@ -15,3 +15,4 @@ apm install highlight-selected
 apm install go-plus
 apm install atom-beautify
 apm install language-vue
+apm install react
